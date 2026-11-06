@@ -17,12 +17,12 @@ int Goleadores::goles(const std::string& jugador) {
 
 size_t Goleadores::cantidad_de_jugadores() {
     // COMPLETAR
-    return 0;
+    return goles_por_jugador.cantidad();
 }
 
 std::string Goleadores::maximo_goleador() {
     // COMPLETAR
-    return "";
+    return maximo;
 }
 
 void Goleadores::imprimir_por_nombre() {
