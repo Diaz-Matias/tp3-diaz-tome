@@ -1,0 +1,240 @@
+Jugadores con goles: 117
+Maximo goleador: Kylian Mbappe (8 goles)
+
+Goleadores por nombre:
+Achraf Dari: 1
+Adrien Rabiot: 1
+Aleksandar Mitrovic: 2
+Alexis Mac Allister: 1
+Alphonso Davies: 1
+Alvaro Morata: 3
+Andre Ayew: 1
+Andreas Christensen: 1
+Andrej Kramaric: 2
+Angel Di Maria: 1
+Ao Tanaka: 1
+Aurelien Tchouameni: 1
+Bamba Dieng: 1
+Boulaye Dia: 1
+Breel Embolo: 2
+Bruno Fernandes: 2
+Bruno Petkovic: 1
+Bukayo Saka: 3
+Carlos Soler: 1
+Casemiro: 1
+Cho Gue-sung: 2
+Christian Pulisic: 1
+Cody Gakpo: 3
+Craig Goodwin: 1
+Cristiano Ronaldo: 1
+Daizen Maeda: 1
+Daley Blind: 1
+Dani Olmo: 1
+Davy Klaassen: 1
+Denzel Dumfries: 1
+Dusan Vlahovic: 1
+Enner Valencia: 3
+Enzo Fernandez: 1
+Eric Maxim Choupo-Moting: 1
+Famara Diedhiou: 1
+Ferran Torres: 2
+Frenkie de Jong: 1
+Gareth Bale: 1
+Gavi: 1
+Giorgian De Arrascaeta: 2
+Goncalo Ramos: 3
+Haji Wright: 1
+Hakim Ziyech: 1
+Harry Kane: 2
+Hee-chan Hwang: 1
+Henry Martin: 1
+Ilkay Gundogan: 1
+Ismaila Sarr: 1
+Ivan Perisic: 1
+Jack Grealish: 1
+Jean-Charles Castelletto: 1
+Joao Felix: 1
+Jordan Henderson: 1
+Josko Gvardiol: 1
+Juan Pablo Vargas: 1
+Jude Bellingham: 1
+Julian Alvarez: 4
+Kai Havertz: 2
+Kalidou Koulibaly: 1
+Keysher Fuller: 1
+Kylian Mbappe: 8
+Lionel Messi: 7
+Lovro Majer: 1
+Lucas Paqueta: 1
+Luis Chavez: 1
+Manuel Akanji: 1
+Marco Asensio: 1
+Marcus Rashford: 3
+Marko Livaja: 1
+Mathew Leckie: 1
+Mehdi Taremi: 2
+Memphis Depay: 1
+Michy Batshuayi: 1
+Mislav Orsic: 1
+Mitchell Duke: 1
+Mohammed Kudus: 2
+Mohammed Muntari: 1
+Mohammed Salisu: 1
+Moises Caicedo: 1
+Nahuel Molina: 1
+Neymar: 2
+Niclas Fullkrug: 2
+Olivier Giroud: 4
+Osman Bukari: 1
+Paik Seung-ho: 1
+Pepe: 1
+Phil Foden: 1
+Piotr Zielinski: 1
+Rafael Leao: 2
+Raheem Sterling: 1
+Ramin Rezaeian: 1
+Randal Kolo Muani: 1
+Raphael Guerreiro: 1
+Remo Freuler: 1
+Ricardo Horta: 1
+Richarlison: 3
+Ritsu Doan: 2
+Robert Lewandowski: 2
+Romain Saiss: 1
+Rouzbeh Cheshmi: 1
+Saleh Al-Shehri: 1
+Salem Al-Dawsari: 2
+Serge Gnabry: 1
+Sergej Milinkovic-Savic: 1
+Strahinja Pavlovic: 1
+Takuma Asano: 1
+Theo Hernandez: 1
+Timothy Weah: 1
+Vincent Aboubakar: 2
+Vinicius Junior: 1
+Wahbi Khazri: 1
+Wout Weghorst: 2
+Xherdan Shaqiri: 1
+Yeltsin Tejeda: 1
+Young-gwon Kim: 1
+Youssef En-Nesyri: 2
+Zakaria Aboukhlal: 1
+
+Goleadores por goles:
+Kylian Mbappe: 8
+Lionel Messi: 7
+Julian Alvarez: 4
+Olivier Giroud: 4
+Alvaro Morata: 3
+Bukayo Saka: 3
+Cody Gakpo: 3
+Enner Valencia: 3
+Goncalo Ramos: 3
+Marcus Rashford: 3
+Richarlison: 3
+Aleksandar Mitrovic: 2
+Andrej Kramaric: 2
+Breel Embolo: 2
+Bruno Fernandes: 2
+Cho Gue-sung: 2
+Ferran Torres: 2
+Giorgian De Arrascaeta: 2
+Harry Kane: 2
+Kai Havertz: 2
+Mehdi Taremi: 2
+Mohammed Kudus: 2
+Neymar: 2
+Niclas Fullkrug: 2
+Rafael Leao: 2
+Ritsu Doan: 2
+Robert Lewandowski: 2
+Salem Al-Dawsari: 2
+Vincent Aboubakar: 2
+Wout Weghorst: 2
+Youssef En-Nesyri: 2
+Achraf Dari: 1
+Adrien Rabiot: 1
+Alexis Mac Allister: 1
+Alphonso Davies: 1
+Andre Ayew: 1
+Andreas Christensen: 1
+Angel Di Maria: 1
+Ao Tanaka: 1
+Aurelien Tchouameni: 1
+Bamba Dieng: 1
+Boulaye Dia: 1
+Bruno Petkovic: 1
+Carlos Soler: 1
+Casemiro: 1
+Christian Pulisic: 1
+Craig Goodwin: 1
+Cristiano Ronaldo: 1
+Daizen Maeda: 1
+Daley Blind: 1
+Dani Olmo: 1
+Davy Klaassen: 1
+Denzel Dumfries: 1
+Dusan Vlahovic: 1
+Enzo Fernandez: 1
+Eric Maxim Choupo-Moting: 1
+Famara Diedhiou: 1
+Frenkie de Jong: 1
+Gareth Bale: 1
+Gavi: 1
+Haji Wright: 1
+Hakim Ziyech: 1
+Hee-chan Hwang: 1
+Henry Martin: 1
+Ilkay Gundogan: 1
+Ismaila Sarr: 1
+Ivan Perisic: 1
+Jack Grealish: 1
+Jean-Charles Castelletto: 1
+Joao Felix: 1
+Jordan Henderson: 1
+Josko Gvardiol: 1
+Juan Pablo Vargas: 1
+Jude Bellingham: 1
+Kalidou Koulibaly: 1
+Keysher Fuller: 1
+Lovro Majer: 1
+Lucas Paqueta: 1
+Luis Chavez: 1
+Manuel Akanji: 1
+Marco Asensio: 1
+Marko Livaja: 1
+Mathew Leckie: 1
+Memphis Depay: 1
+Michy Batshuayi: 1
+Mislav Orsic: 1
+Mitchell Duke: 1
+Mohammed Muntari: 1
+Mohammed Salisu: 1
+Moises Caicedo: 1
+Nahuel Molina: 1
+Osman Bukari: 1
+Paik Seung-ho: 1
+Pepe: 1
+Phil Foden: 1
+Piotr Zielinski: 1
+Raheem Sterling: 1
+Ramin Rezaeian: 1
+Randal Kolo Muani: 1
+Raphael Guerreiro: 1
+Remo Freuler: 1
+Ricardo Horta: 1
+Romain Saiss: 1
+Rouzbeh Cheshmi: 1
+Saleh Al-Shehri: 1
+Serge Gnabry: 1
+Sergej Milinkovic-Savic: 1
+Strahinja Pavlovic: 1
+Takuma Asano: 1
+Theo Hernandez: 1
+Timothy Weah: 1
+Vinicius Junior: 1
+Wahbi Khazri: 1
+Xherdan Shaqiri: 1
+Yeltsin Tejeda: 1
+Young-gwon Kim: 1
+Zakaria Aboukhlal: 1

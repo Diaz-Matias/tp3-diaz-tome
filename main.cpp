@@ -4,7 +4,7 @@
 #include "goleadores.h"
 
 // Cambiar a true si hicieron la parte optativa (los dos listados).
-const bool CON_LISTADOS = false;
+const bool CON_LISTADOS = true;
 
 // Lee de la entrada estandar la lista de goles del grupo (un gol por linea:
 // el nombre del jugador que lo hizo) e imprime el resumen.
@@ -25,10 +25,10 @@ int main() {
     if (CON_LISTADOS) {
         std::cout << std::endl;
         std::cout << "Goleadores por nombre:"  << std::endl;
-        // OPTATIVO: imprimir el listado por nombre.
+        goleador.imprimir_por_nombre();
         std::cout << std::endl;
         std::cout << "Goleadores por goles:" << std::endl;
-        // OPTATIVO: imprimir el listado por goles.
+        goleador.imprimir_por_goles();
     }
     return 0;
 }

@@ -1,0 +1,26 @@
+EXPLORACION DE FUNCIONES DE HASH
+Archivo: datos/goles.txt (Mundial 2022), n = 117 jugadores
+
+Funciones probadas (para strings):
+- hash_suma_mod10: suma los codigos ASCII de las letras y se queda con el resto de dividir por 10. Es malo porque usa siempre como mucho 10 buckets entonces hay muchas colisiones
+- hash_suma: suma los codigos ASCII de las letras. Con estos datos es aceptable pero como no tiene en cuenta el orden de las palabras si metiermos dos palabras que tienen mismas letras pero distinto orden generarian una colision
+- hash_bueno: polinomial, h = h * 31 + c por cada letra. Es la que mas se acerca a la formula con las dos capacidades, porque en cierta manera tiene en cuenta el orden lo que minimiza las colisiones.
+
+Resultados (colisiones):
+
+Funcion            | cap inicial 8 (final 64) | cap inicial 13 (final 104)
+-------------------|--------------------------|---------------------------
+hash_suma_mod10    |          107             |           107
+hash_suma          |           64             |            54
+hash_bueno         |           63             |            49
+Esperado (formula) |          63.1            |           46.6
+
+Formula de referencia (reparto uniforme): n - c * (1 - (1 - 1/c)^n),
+con n = 117 y c = capacidad final.
+
+Conclusiones:
+- Funcion elegida: hash_bueno, porque como dijimos antes, es la que minimiza las colisiones y la que mas se acerca a la formula de referencia.
+- Porque colisionan las funciones malas:
+  en hash_suma_mod10 colisionan todos los nombres cuya suma termina en el mismo dígito, por ejemplo Harry Kane y Goncalo Ramos colisionan porque su suma termina en 3
+  en hash_suma colisionan los nombres cuyas letras suman lo mismo, aunque no sean parecidos, por ejemplo Kylian Mbappe y Nahuel Molina suman 1245
+- Potencia de 2 (8) vs primo (13): con una buena funcion de hash no afecta tanto, con una mala puede llegar a importar segun lo que eligas. Esto ya que con potencia de 2, el % solo mira los últimos bits del hash, así que una función que no mezcla bien concentra claves en pocos buckets. Por ejemplo con 64 buckets, hash_bueno dio 63 contra 63.1 esperado, así que no le afectó. Y la de 13 terminó en 104, que no es primo, porque la tabla se duplica (13 → 26 → 52 → 104).

@@ -14,8 +14,12 @@
 //   - K: se puede copiar, comparar con == y existe funcion_hash(K).
 //   - V: se puede copiar.
 //
-// Invariante de representacion:
-//   COMPLETAR: escriban aca el invariante de la representacion que elijan.
+// Invariantes de representacion:
+//      Buckets tiene tamaño (buckets.size()) >=1 si o si
+//      Para cada par en buckets[i] se cumple: funcion_hash(par.clave)%buckets.size() = i 
+//      No hay 2 pares con la misma CLAVE en toda la tabla
+//      cant = suma de los size() de todos los buckets
+//      cant <= FACTOR_DE_CARGA_MAXIMO* buckets.size()
 //
 // Complejidades: n es la cantidad de claves guardadas y c la capacidad.
 // "Promedio" supone que la funcion de hash reparte las claves de manera
@@ -87,7 +91,9 @@ class TablaHash {
     // Deja de ser valido si se inserta o se elimina en la tabla.
     //
     // Invariante de representacion:
-    //   COMPLETAR: escriban aca el invariante de la representacion que elijan.
+    //  tabla es un puntero que apunta siempre a la tabla que esta siendo recorrida
+    //  bucket <= tabla->buckets.size(), y si es igual, el iterador esta al final
+    //  si bucket < tabla->buckets.size(), entonces pos < tabla->buckets[bucket].size()
     class Iterador {
       private:
         // COMPLETAR: la representacion la eligen ustedes. Desde aca se puede
